@@ -1,5 +1,5 @@
 import React from "react";
-import Header from "@/components/Organisms/Header";
+import Header from "@/app/_components/Organisms/Header";
 
 const HomeTemplate = () => {
   return (

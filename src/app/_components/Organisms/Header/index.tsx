@@ -1,5 +1,5 @@
 import React from "react";
-import Title from "@/components/Atoms/Title";
+import Title from "@/app/_components/Atoms/Title";
 
 type Props = {
   title: string;

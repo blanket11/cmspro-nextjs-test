@@ -20,6 +20,8 @@
     "typescript": "5.1.6"
   },
   "devDependencies": {
+    "dayjs": "^1.11.9",
+    "microcms-js-sdk": "^2.5.0",
     "sass": "^1.66.1",
     "the-new-css-reset": "^1.9.0"
   }
